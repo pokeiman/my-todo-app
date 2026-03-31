@@ -1,3 +1,5 @@
+"use client"; 
+
 import React, { useState } from 'react';
 import { StyleSheet, View, FlatList, SafeAreaView } from 'react-native';
 import { CheckBox, Input, Button } from '@rneui/themed';
